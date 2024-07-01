@@ -51,12 +51,12 @@ h2, h3 {
     justify-content: center;
 }
 
-.txtExtraido {
+.txtEstraido {
     display: inline-block;
 }
 
 small {
-    display: flex;
+    display: fl;
     justify-content: center;
 }
 
